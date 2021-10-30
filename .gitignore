@@ -33,5 +33,5 @@
 
 # Arquivos e/ou diretórios a serem ignorados 
 
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
