@@ -1,1 +1,1 @@
-A ser escrito ao final das alterações do projeto.  
+O readme será finalizado após as alterações sugeridas nesta fase de avaliação. 
