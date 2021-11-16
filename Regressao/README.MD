@@ -1,1 +1,1 @@
-O readme será finalizado após as alterações sugeridas nesta fase de avaliação. 
+PROJETO EM REVISÃO POR PARES DA ÁREA - em breve um resumo completo do trabalho. 
